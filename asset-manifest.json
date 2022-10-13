@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/YogeshGupta/static/css/main.67e7934e.css",
+    "main.js": "/YogeshGupta/static/js/main.7991fbdb.js",
+    "static/media/pizza.png": "/YogeshGupta/static/media/pizza.af59b0999f4751ab9e13.png",
+    "static/media/dinner.png": "/YogeshGupta/static/media/dinner.bcb0ff9556291f737288.png",
+    "static/media/yyy.png": "/YogeshGupta/static/media/yyy.470d7a5e4c9220e72606.png",
+    "static/media/gmart.png": "/YogeshGupta/static/media/gmart.e44a61f30589082cac30.png",
+    "static/media/fvrt.png": "/YogeshGupta/static/media/fvrt.7894498d3928a3aad68d.png",
+    "static/media/snake.png": "/YogeshGupta/static/media/snake.5e104399a1ab4255ffee.png",
+    "static/media/fresh.png": "/YogeshGupta/static/media/fresh.8f12a646d87407ec543e.png",
+    "static/media/life.png": "/YogeshGupta/static/media/life.1511bed433ebbdc729ed.png",
+    "static/media/mi.png": "/YogeshGupta/static/media/mi.42d0b31af52e16690903.png",
+    "static/media/port.png": "/YogeshGupta/static/media/port.cfe58e023f518f1faa9b.png",
+    "static/media/blog.png": "/YogeshGupta/static/media/blog.8d492c1ac8dedaa1cdcf.png",
+    "static/media/sumi.jpg": "/YogeshGupta/static/media/sumi.e13bcdc36a0926b92498.jpg",
+    "static/media/yogi.jpg": "/YogeshGupta/static/media/yogi.a06d49580610a1b54d4c.jpg",
+    "static/media/wether.png": "/YogeshGupta/static/media/wether.0a7c7b4f2a455015c607.png",
+    "static/media/quiz.png": "/YogeshGupta/static/media/quiz.56f2f04ac758c6a7179d.png",
+    "static/media/boyy.png": "/YogeshGupta/static/media/boyy.23e33d1989785920abe7.png",
+    "static/media/resume.pdf": "/YogeshGupta/static/media/resume.cf3011361960d14982c7.pdf",
+    "static/media/glassesimoji.png": "/YogeshGupta/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/kris.jpg": "/YogeshGupta/static/media/kris.fce65c51755e9e3f4fda.jpg",
+    "static/media/libr.png": "/YogeshGupta/static/media/libr.8f8556cadbd10b29cc1b.png",
+    "static/media/textutil.png": "/YogeshGupta/static/media/textutil.ecf9ef58759ff655a26f.png",
+    "static/media/thumbup.png": "/YogeshGupta/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/YogeshGupta/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/toddo.png": "/YogeshGupta/static/media/toddo.63d6e1329f4f37a817b2.png",
+    "static/media/heartemoji.png": "/YogeshGupta/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/YogeshGupta/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/YogeshGupta/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/YogeshGupta/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/YogeshGupta/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/YogeshGupta/index.html",
+    "main.67e7934e.css.map": "/YogeshGupta/static/css/main.67e7934e.css.map",
+    "main.7991fbdb.js.map": "/YogeshGupta/static/js/main.7991fbdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e7934e.css",
+    "static/js/main.7991fbdb.js"
+  ]
+}
