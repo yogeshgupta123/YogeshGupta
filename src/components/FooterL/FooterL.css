@@ -1,0 +1,16 @@
+.foooter{
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+    width: auto;
+    align-items: center;
+    margin: 0;
+  }
+  .foooter span a{
+    color: crimson;
+    text-decoration: none;
+  }
+  .foooter span a:hover{
+    text-decoration: underline;
+  }
